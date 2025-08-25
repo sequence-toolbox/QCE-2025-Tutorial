@@ -1,11 +1,9 @@
-12,002,500,010       INFO    generation             router_0 failed entanglement of memory router_0.MemoryArray[0]
-12,002,500,010       INFO    generation             router_1 failed entanglement of memory router_1.MemoryArray[0]
-14,005,012,510       INFO    generation             router_0 failed entanglement of memory router_0.MemoryArray[0]
-14,005,012,510       INFO    generation             router_1 failed entanglement of memory router_1.MemoryArray[0]
-17,510,037,510       INFO    generation             router_0 successful entanglement of memory router_0.MemoryArray[0]
-17,510,037,510       INFO    teleportation          router_0.TeleportProtocol: acting as Alice on idx=0
-17,510,037,510       INFO    teleportation          router_0.TeleportProtocol: sent correction to router_1: idx=0, x=1, z=1
-17,510,037,510       INFO    generation             router_1 successful entanglement of memory router_1.MemoryArray[0]
-17,510,037,510       INFO    teleportation          router_1.TeleportProtocol: stashing Bob comm idx=0
-18,010,037,510       INFO    teleportation          router_1.TeleportProtocol: X-flip applied on idx=0
-18,010,037,510       INFO    teleportation          router_1.TeleportProtocol: Z-flip applied on idx=0
+3,002,500,010        INFO    generation             router_0 failed entanglement of memory router_0.MemoryArray[0]
+3,002,500,010        INFO    generation             router_1 failed entanglement of memory router_1.MemoryArray[0]
+5,005,012,510        INFO    generation             router_0 failed entanglement of memory router_0.MemoryArray[0]
+5,005,012,510        INFO    generation             router_1 failed entanglement of memory router_1.MemoryArray[0]
+8,510,037,510        INFO    generation             router_0 successful entanglement of memory router_0.MemoryArray[0]
+8,510,037,510        INFO    teleportation          router_0.teleport.router_1.DataMemoryArray[0]: sent measurement results to router_1: bob_comm_memory=router_1.MemoryArray[0], x=1, z=1, reservation=|initiator=router_0; responder=router_1; start_time=1,000,000,000; end_time=30,000,000,000; memory_size=1; target_fidelity=0.8; entanglement_number=1; identity=0|
+8,510,037,510        INFO    generation             router_1 successful entanglement of memory router_1.MemoryArray[0]
+9,010,037,510        INFO    teleportation          router_1.teleport.router_0: X-flip applied on memory router_1.MemoryArray[0]
+9,010,037,510        INFO    teleportation          router_1.teleport.router_0: Z-flip applied on memory router_1.MemoryArray[0]
