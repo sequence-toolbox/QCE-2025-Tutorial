@@ -3,7 +3,7 @@
 5,005,012,510        INFO    generation             alice failed entanglement of memory alice.MemoryArray[0]
 5,005,012,510        INFO    generation             bob failed entanglement of memory bob.MemoryArray[0]
 8,510,037,510        INFO    generation             alice successful entanglement of memory alice.MemoryArray[0]
-8,510,037,510        INFO    teleportation          alice.teleport.bob.DataMemoryArray[0]: sent measurement results to bob: bob_comm_memory=bob.MemoryArray[0], x=1, z=1, reservation=|initiator=alice; responder=bob; start_time=1,000,000,000; end_time=30,000,000,000; memory_size=1; target_fidelity=0.8; entanglement_number=1; identity=0|
 8,510,037,510        INFO    generation             bob successful entanglement of memory bob.MemoryArray[0]
+8,510,037,510        INFO    teleportation          alice.teleport.bob.DataMemoryArray[0] bell measurement results: x=1, z=1, remote memory=bob.MemoryArray[0]
 9,010,037,510        INFO    teleportation          bob.teleport.alice: X-flip applied on memory bob.MemoryArray[0]
 9,010,037,510        INFO    teleportation          bob.teleport.alice: Z-flip applied on memory bob.MemoryArray[0]
