@@ -22,7 +22,7 @@
       "type": "DQCNode",
       "seed": 2,
       "memo_size": 2,
-      "data_memo_size": 1,
+      "data_memo_size": 2,
       "group": 0,
       "template": "teleportation"
     },
@@ -31,14 +31,14 @@
       "type": "DQCNode",
       "seed": 3,
       "memo_size": 2,
-      "data_memo_size": 1,
+      "data_memo_size": 2,
       "group": 0,
       "template": "teleportation"
     },
     {
       "name": "BSM_alice_bob",
       "type": "BSMNode",
-      "seed": 3,
+      "seed": 4,
       "group": 0
     },
     {
