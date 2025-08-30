@@ -47,13 +47,13 @@
                 "detectors": [
                     {
                         "efficiency": 1,
-                        "dark_count": 0,
+                        "dark_count": 1e-3,
                         "time_resolution": 1,
                         "count_rate": 1e11
                     },
                     {
                         "efficiency": 1,
-                        "dark_count": 0,
+                        "dark_count": 1e-3,
                         "time_resolution": 1,
                         "count_rate": 1e11
                     }
