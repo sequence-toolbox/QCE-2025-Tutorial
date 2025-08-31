@@ -1,1 +1,2 @@
-- The Teleporation tutorial and demo are tested on SeQUeNCe version 0.7.5
+- The teleportation tutorial works on SeQUeNCe version 0.7.5 and above
+- The plug-in tutorial works on SeQUeNCe version 0.7.6 and above
