@@ -14,7 +14,6 @@
             "seed": 0,
             "memo_size": 1,
             "data_memo_size": 1,
-            "group": 0,
             "template": "teleportation"
         },
         {
@@ -23,15 +22,12 @@
             "seed": 1,
             "memo_size": 1,
             "data_memo_size": 1,
-            "group": 0,
             "template": "teleportation"
         },
         {
             "name": "BSM_alice_bob",
             "type": "BSMNode",
-            "seed": 0,
-            "group": 0,
-            "template": "teleportation"
+            "seed": 0
         }
     ],
     "qchannels": [

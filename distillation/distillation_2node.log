@@ -1,0 +1,16 @@
+1,029,175,087,510    DEBUG   bbpssw_bds             EP.router_0.MemoryArray[1].router_0.MemoryArray[0], before: f = 0.788544, 0.774285; after: f = 0.820078
+1,029,175,087,510    DEBUG   bbpssw_bds             Starting BBPSSW from router_0 to router_1
+1,030,175,087,510    DEBUG   bbpssw_bds             EP.router_1.MemoryArray[1].router_1.MemoryArray[0], before: f = 0.787826, 0.773587; after: f = 0.819381
+1,030,175,087,510    DEBUG   bbpssw_bds             Starting BBPSSW from router_1 to router_0
+1,030,175,087,510    INFO    bbpssw_bds             router_1received result message, succeeded=False
+1,030,175,087,510    INFO    bbpssw_bds             Purification failed because measure results: 1, 0
+1,031,175,087,510    INFO    bbpssw_bds             router_0received result message, succeeded=False
+1,031,175,087,510    INFO    bbpssw_bds             Purification failed because measure results: 0, 1
+1,068,400,212,510    DEBUG   bbpssw_bds             EP.router_0.MemoryArray[1].router_0.MemoryArray[0], before: f = 0.788544, 0.771479; after: f = 0.818684
+1,068,400,212,510    DEBUG   bbpssw_bds             Starting BBPSSW from router_0 to router_1
+1,069,400,212,510    DEBUG   bbpssw_bds             EP.router_1.MemoryArray[1].router_1.MemoryArray[0], before: f = 0.787826, 0.770784; after: f = 0.817987
+1,069,400,212,510    DEBUG   bbpssw_bds             Starting BBPSSW from router_1 to router_0
+1,069,400,212,510    INFO    bbpssw_bds             router_1received result message, succeeded=True
+1,069,400,212,510    INFO    bbpssw_bds             Purification success, measurement results: 1, 1
+1,070,400,212,510    INFO    bbpssw_bds             router_0received result message, succeeded=True
+1,070,400,212,510    INFO    bbpssw_bds             Purification success, measurement results: 1, 1
